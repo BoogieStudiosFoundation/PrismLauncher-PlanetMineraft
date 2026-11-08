@@ -5,3 +5,5 @@
   <img alt="Prism Launcher" src="/program_info/org.prismlauncher.PrismLauncher.logo.svg" width="40%">
 </picture>
 </p>
+
+prismlauncher-planetminecraft is prismlauncher fork that has support for planetminecraft
